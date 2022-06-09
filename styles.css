@@ -1,0 +1,5 @@
+body {
+  background: grey;
+  display: flex;
+  justify-content: center;
+}
